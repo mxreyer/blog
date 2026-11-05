@@ -1,0 +1,29 @@
+# GitHub Pages configuration.
+#
+# Source: main branch, repository root (Settings -> Pages -> Build and
+# deployment -> Deploy from a branch -> main / (root)).
+# Published at https://mxreyer.github.io/blog/
+#
+# New post: add _posts/YYYY-MM-DD-slug.md with `layout: post` and a `title`
+# in its front matter. It is served at /blog/<slug>/ (see `permalink`) and
+# listed on the home page automatically.
+
+title: mxreyer
+description: >-
+  Notes from projects: hardware, homelab, machine learning, Kubernetes.
+url: https://mxreyer.github.io
+baseurl: /blog
+
+theme: minima
+permalink: /:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
