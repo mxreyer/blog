@@ -7,7 +7,7 @@ plain Jekyll site built by GitHub Pages, using the default `minima` theme.
 
 | Date | Post | Code |
 | --- | --- | --- |
-| 2026-09-04 | [Turning a mining board into a multi-user ML box](_posts/2026-09-04-bc250-ml-box.md) | [pytorch-gpu-bc250](https://github.com/mxreyer/pytorch-gpu-bc250) · [bc250-jupyterhub-opencl-k3s](https://github.com/mxreyer/bc250-jupyterhub-opencl-k3s) · [pytorch-dlprim-gfx1013](https://github.com/mxreyer/pytorch-dlprim-gfx1013) |
+| 2026-09-04 | [From mining board to multi-user ML box](_posts/2026-09-04-bc250-ml-box.md) | [pytorch-gpu-bc250](https://github.com/mxreyer/pytorch-gpu-bc250) · [bc250-jupyterhub-opencl-k3s](https://github.com/mxreyer/bc250-jupyterhub-opencl-k3s) · [pytorch-dlprim-gfx1013](https://github.com/mxreyer/pytorch-dlprim-gfx1013) |
 
 ## Writing a post
 
